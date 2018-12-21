@@ -1,0 +1,13 @@
+.m-logo{
+    display: flex;
+    align-items: center;
+}
+.m-logo img{
+    display: inline-block;
+    height: 44px;
+}
+.m-logo i.fa{
+    font-size: 28px;
+    color: #fec503;
+    margin-right: 10px;
+}
