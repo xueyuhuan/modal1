@@ -724,7 +724,7 @@ figure.effect-bubba:hover p {
 }
 
 .partner-logo {
-	height: 80px;
+	height: 150px;
 	text-align: center;
 	display: inline-block;
 }
@@ -973,13 +973,15 @@ color: #fff;
 #back-top a {
 	width: 60px;
 	height: 60px;
-	display: block;
+	display: flex;
 	text-align: center;
-	font: 11px/100% Arial, Helvetica, sans-serif;
+	justify-content: center;
+	align-items: center;
+	font: 12px/100% Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #FFFFFF;
-	background: #A9A9B1;
+	background-color: rgba(169, 169, 169,0.5);
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
