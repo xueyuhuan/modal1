@@ -11,16 +11,16 @@ Color customizations
 change these colors to change overlays
 --------------------*/
 
-.mz-module:hover .ot-circle.color1 {
+.mz-module .ot-circle.color1 {
 	color: #C54A4A;
 }
-.mz-module:hover .ot-circle.color2 {
+.mz-module .ot-circle.color2 {
 	color: #6091DC;
 }
-.mz-module:hover .ot-circle.color3 {
+.mz-module .ot-circle.color3 {
 	color: #6EB377;
 }
-.mz-module:hover .ot-circle.color4 {
+.mz-module .ot-circle.color4 {
 	color: #FCBE03;
 }
 
